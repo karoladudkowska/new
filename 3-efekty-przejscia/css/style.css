@@ -9,7 +9,7 @@
 }
 
 .red {
-background-color: red;
+    background-color: red;
 }
 
 .red:hover {
@@ -24,7 +24,7 @@ background-color: green;
 }
 
 .blue {
-background-color: blue;
+    background-color: blue;
 }
 
 .blue:hover {
